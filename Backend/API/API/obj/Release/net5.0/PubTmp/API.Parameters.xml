@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="AdmitereLaMatematicaAPI" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Proiect\ AFA\\Backend\\API\\API\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="API.Models.MathsContext" description="" value="Data Source=tcp:math-seerver.database.windows.net,1433;Initial Catalog=Maths;User Id=raulvega@math-seerver;Password=@Vegihno123" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^D:\\Proiect\ AFA\\Backend\\API\\API\\obj\\Release\\net5\.0\\PubTmp\\EFSQLScripts\\API\.Models\.MathsContext\.sql$" />
+  </parameter>
+</parameters>

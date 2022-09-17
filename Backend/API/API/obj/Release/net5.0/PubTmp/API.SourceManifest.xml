@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Proiect AFA\Backend\API\API\obj\Release\net5.0\PubTmp\Out\" />
+  <dbfullsql path="D:\Proiect AFA\Backend\API\API\obj\Release\net5.0\PubTmp\EFSQLScripts\API.Models.MathsContext.sql" />
+</sitemanifest>
